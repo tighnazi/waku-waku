@@ -1,9 +1,13 @@
-.all{
-    color: rgb(203, 4, 70);
+.ig{
+    color: rgb(235, 70, 125);
     font-style: italic;
 }
 .fb{
-    color: blue;
+    color: rgb(47, 47, 204);
+    font-style: italic;
+}
+.all{
+    color: purple;
 }
 #p1 {
     color: cadetblue;
